@@ -3,7 +3,9 @@ export type ChallengeDayType = {
 	id: string
 	isComplete: boolean
 	nday: number
-	date: Date
+	date: string
+	goal: number
+	result: number | null
 }
 
 export type ChallengeType = {

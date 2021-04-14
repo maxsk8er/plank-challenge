@@ -12,6 +12,8 @@
     "@types/react-dom": "^17.0.3",
     "ahooks": "^2.10.0",
     "axios": "^0.21.1",
+    "html-react-parser": "^1.2.5",
+    "moment": "^2.29.1",
     "node-sass": "^5.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -65,6 +67,7 @@
     "@storybook/addon-links": "^6.2.7",
     "@storybook/node-logger": "^6.2.7",
     "@storybook/preset-create-react-app": "^3.1.7",
-    "@storybook/react": "^6.2.7"
+    "@storybook/react": "^6.2.7",
+    "@types/uuid": "^8.3.0"
   }
 }
